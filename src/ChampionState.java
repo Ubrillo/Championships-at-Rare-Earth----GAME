@@ -5,7 +5,7 @@ import java.io.*;
  * Enumeration class ChampionState 
  * Specifies all possible states of a champion
  * 
- * @author A.Marczyk
+ * @author Udoette
  * @version 01/01/2024
  */
 public enum ChampionState implements Serializable
