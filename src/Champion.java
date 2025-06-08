@@ -3,7 +3,6 @@ import java.io.Serializable;
 
 /**
  * Champion class  describes the specification for the Champion
- * as required for 5COM2007 Cwk 4
  *  * @author: Udoette
  * @version
  */
