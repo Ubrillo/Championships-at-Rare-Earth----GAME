@@ -3,9 +3,9 @@ package cwk4;
 import java.io.*;
 /**
  * This interface specifies the behaviour expected from CARE
- * as required for 5COM2007 Cwk 4
  * 
- * @author A.A.Marczyk 
+ * 
+ * @author U.U
  * @version 01/03/2024
  */
  
