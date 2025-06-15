@@ -1,2 +1,5 @@
 # Championships-at-Rare-Earth----GAME
-" Rather than waging wars, every 4 years the magical kingdom of Rare Earth, holds a Grand Tournament where champions from various kingdoms meet to fight challenges. The prizes are money, rather than territory or lives. The Rare Earth Commandant and her department are responsible for recruiting champions wiling to be entered into the tournament on behalf of Rare Earth creating a list of “reserve” champions. In addition, the Tournament Authority led by the Tournament Master is responsible for setting up the challenges and managing enemy champions. You are the rare Earth Vizier and your task (in the game) is to assemble a Team of Rare Earth Champions from the reserve list provided by the Rare Earth Commandant, select their challenges and manage the finances”
+•	A software engineering project involving a team of four people at the University to develop a game using JAVA. The process involved a project development plan, user requirements analysis, use-case modelling, software development, version control, graphical user interface, l, unit testing and documentation.
+
+## Result
+* Please, the documentation directory to see the report on this project
